@@ -10,3 +10,9 @@
 
 ## Objetivo
 Facilitar o gerenciamento de uma concessionária de veículos.
+## Atualização do Sistema
+
+O sistema também deverá permitir:
+- Consultar o histórico de vendas.
+- Pesquisar veículos por marca e modelo.
+- Consultar informações dos clientes.
