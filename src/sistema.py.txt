@@ -1,0 +1,6 @@
+print("AUTOgest - Sistema de Concessionária")
+print("-----------------------------------")
+print("1 - Cadastro de veículos")
+print("2 - Cadastro de clientes")
+print("3 - Controle de estoque")
+print("4 - Registro de vendas")

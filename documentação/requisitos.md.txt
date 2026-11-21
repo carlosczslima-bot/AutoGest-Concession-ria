@@ -1,0 +1,12 @@
+# Requisitos do Sistema AutoGest
+
+## Requisitos Funcionais
+
+1. O sistema deverá permitir cadastrar veículos.
+2. O sistema deverá permitir cadastrar clientes.
+3. O sistema deverá permitir consultar o estoque.
+4. O sistema deverá permitir registrar vendas.
+5. O sistema deverá permitir cadastrar vendedores.
+
+## Objetivo
+Facilitar o gerenciamento de uma concessionária de veículos.

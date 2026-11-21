@@ -1,0 +1,14 @@
+# Protótipo do Sistema AutoGest
+
+## Tela Inicial
+
+O sistema apresentará as seguintes opções:
+
+1. Cadastro de veículos.
+2. Cadastro de clientes.
+3. Cadastro de vendedores.
+4. Controle de estoque.
+5. Registro de vendas.
+
+## Objetivo
+Oferecer uma interface simples para facilitar o gerenciamento da concessionária.
